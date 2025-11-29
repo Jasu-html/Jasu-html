@@ -1,10 +1,10 @@
 <!-- Header -->
-<h1 align="center">🐣 Justin Alarcio</h1>
+<h1 align="center">Justin Alarcio</h1>
 <p align="center">2nd Year IT Student • Artist • Aspiring Game & Web Developer</p>
 
 ---
 
-## 🍋 About Me
+## 💫 About Me
 Hi there! I'm **Jasu**, a passionate IT student and digital artist who loves making things—  
 whether it's **websites**, **games**, or **illustrations**.
 
@@ -17,7 +17,6 @@ I enjoy turning ideas into functional and aesthetic digital experiences.
 
 ---
 
-## 🌐 Socials
 ## 🌐 Socials
 
 <div style="display: flex; gap: 10px;">
